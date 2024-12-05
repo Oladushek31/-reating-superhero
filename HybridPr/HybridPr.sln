@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridPr", "HybridPr\HybridPr.csproj", "{3850E8B9-8A8A-4C69-AFBB-468E756E8CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3850E8B9-8A8A-4C69-AFBB-468E756E8CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3850E8B9-8A8A-4C69-AFBB-468E756E8CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3850E8B9-8A8A-4C69-AFBB-468E756E8CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3850E8B9-8A8A-4C69-AFBB-468E756E8CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933666EE-B64C-44B8-A7D4-F4691F50B7D3}
+	EndGlobalSection
+EndGlobal

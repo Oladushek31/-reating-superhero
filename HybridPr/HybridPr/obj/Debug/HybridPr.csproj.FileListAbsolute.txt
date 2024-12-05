@@ -1,0 +1,8 @@
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\obj\Debug\HybridPr.csproj.AssemblyReference.cache
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\obj\Debug\HybridPr.csproj.ResolveComReference.cache
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\obj\Debug\HybridPr.csproj.CoreCompileInputs.cache
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\bin\Debug\HybridPr.exe.config
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\bin\Debug\HybridPr.exe
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\bin\Debug\HybridPr.pdb
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\obj\Debug\HybridPr.exe
+D:\Yours\Программирование\Visual Studio\HybridPr\HybridPr\obj\Debug\HybridPr.pdb
